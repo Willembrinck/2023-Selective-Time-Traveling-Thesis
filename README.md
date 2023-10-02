@@ -12,7 +12,4 @@ An extract of the code is included in this repository.
 
 ## Related to Part II: A New Debugging Approach
 
-Publication repository with result data: [SeekerDebugger](https://github.com/Willembrinck/2021-TTQs)
-
-## Related Resources
-
+Publication repository with result data: [Time-traveling Queriesn 2021](https://github.com/Willembrinck/2021-TTQs)
